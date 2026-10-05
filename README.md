@@ -197,4 +197,5 @@ Feedstock Maintainers
 * [@mariusvniekerk](https://github.com/mariusvniekerk/)
 * [@pb01ka](https://github.com/pb01ka/)
 * [@rxm7706](https://github.com/rxm7706/)
+* [@xhochy](https://github.com/xhochy/)
 
